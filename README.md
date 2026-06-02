@@ -23,19 +23,15 @@ The design specifications are structured across the following core documents:
 * **Content**: Inputs, outputs, validation business rules, and business benefits for Authentication, Student, Recruiter, Placement Officer, and Admin modules.
 * **Key Framework**: MoSCoW Feature Prioritization Matrix.
 
-### 4. [System Workflow and Sequence Diagrams (03_Workflow_Diagram.md)](03_Workflow_Diagram.md)
-* **Goal**: Technical visual diagrams and error path definitions.
-* **Content**: Black-and-white professional Mermaid flowcharts for every user role, detailed step-by-step logic, exception and error code definitions, and an end-to-end multi-party sequence diagram.
-
-### 5. [Platform UI/UX Wireframe Specification (04_Wireframes.md)](04_Wireframes.md)
+### 4. [Platform UI/UX Wireframe Specification (04_Wireframes.md)](04_Wireframes.md)
 * **Goal**: SaaS-inspired low-fidelity interface layouts.
 * **Content**: Interactive ASCII wireframe mockups for 10 core screens (Dashboards, Job Listings, Details Pages, Interview Schedulers, and Admin Panels) with user action flows.
 
-### 6. [Minimum Viable Product (MVP) Definition (05_MVP_Definition.md)](05_MVP_Definition.md)
+### 5. [Minimum Viable Product (MVP) Definition (05_MVP_Definition.md)](05_MVP_Definition.md)
 * **Goal**: Strategic launch boundaries and timeline.
 * **Content**: Core MVP goal, included/excluded features lists, MoSCoW matrix, Success metrics KPIs, User Acceptance Criteria (UAC) validations, and Gantt-chart-backed 12-week development roadmap.
 
-### 7. [Software Requirements Specification (SRS_Internship_Management_Platform.md)](SRS_Internship_Management_Platform.md)
+### 6. [Software Requirements Specification (SRS_Internship_Management_Platform.md)](SRS_Internship_Management_Platform.md)
 * **Goal**: Core requirements baseline.
 * **Content**: Problem statements, technology stack selection, and three-tier structural architecture overview.
 
