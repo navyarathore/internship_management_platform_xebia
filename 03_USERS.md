@@ -1,3 +1,7 @@
+# USER.md
+
+# Internship Management Platform
+
 ## Team Information
 
 | Name           | Email ID                                                        | Role                                              |
@@ -22,3 +26,69 @@ Design and develop a platform that connects students, recruiters, placement offi
 * Database: MySQL
 
 ---
+
+# Contributions - Day 1
+
+## Parth Bhatia
+
+### Tasks Completed
+
+* Created GitHub repository structure
+* Prepared project documentation plan
+* Defined project objectives and scope
+* Drafted requirements specification
+* Organized deliverables according to project requirements
+* Coordinated task allocation among team members
+
+### Deliverables Contributed
+
+* USER.md
+* Requirements Documentation
+* Repository Structure Planning
+
+---
+
+## Navya Rathore
+
+### Tasks Completed
+
+* Analyzed user journeys and platform workflows
+* Designed workflow diagrams
+* Identified interactions between students, recruiters, placement officers, and administrators
+* Started wireframe planning for platform screens
+
+### Deliverables Contributed
+
+* Workflow Documentation
+* Initial Wireframe Planning
+* USER.md
+
+---
+
+## Prabhjot Singh
+
+### Tasks Completed
+
+* Identified platform features and modules
+* Defined system functionalities
+* Assisted in feature prioritization
+* Contributed to MVP planning and system architecture discussions
+
+### Deliverables Contributed
+
+* Key Features Documentation
+* MVP Definition
+* Feature Analysis
+* USER.md
+
+---
+
+# Deliverables Completed
+
+* Repository Setup
+* Team Documentation
+* User Role Identification
+* Key Feature Identification
+* Workflow Planning
+* Wireframe Planning
+* MVP Planning
